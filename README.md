@@ -11,9 +11,6 @@ However, I always wanted to delve deeper into coding and work as a professional 
 My work experience in back-end development has greatly improved, allowing me to implement exciting and efficient projects using this powerful framework.
 
 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@reyhane76/a64952e7-8e26-4c48-8dd5-ed3ac0f54871.png" /></a>
-
 During my professional journey, I have participated in several important and exciting projects. Here are some of them:
 
 # RoyalPayamak Project: 
