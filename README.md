@@ -13,6 +13,9 @@ My work experience in back-end development has greatly improved, allowing me to 
 
 During my professional journey, I have participated in several important and exciting projects. Here are some of them:
 
-# RoyalPayamak Project: 
-In this project, I worked as a back-end developer and developed the RoyalPayamak website. This website was a platform for selling SMS packages and was designed and implemented using the Laravel framework. In this project, I was responsible for tasks such as user management, payments, and product pages.
+### By numbers...
 
+<a href="https://github.com/MrMohebi">
+<img height="160em" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reyhane1376&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
+<img height="160em" align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=reyhane1376&theme=github_dark&hide_border=true&layout=compact" />
+</a>
