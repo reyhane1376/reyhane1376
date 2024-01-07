@@ -6,7 +6,6 @@ Hi,there :wave:
 
 Welcome to my GitHub profile! I am a Backend Software Engineer with experience in Php. I have over 3 years of experience building and maintaining scalable, high-performance backend systems with a strong foundation in Php and Laravel.
 
-### By numbers...
 
 <a href="https://github.com/reyhane1376">
 <img height="160em" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reyhane1376&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
