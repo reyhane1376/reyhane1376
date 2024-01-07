@@ -4,14 +4,7 @@ Hi,there :wave:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@reyhane76/1c79c02d-5496-4690-a437-346afaa04486.png" /></a>
 
-My name is Reyhaneh. I was born on September 11, 1997, and I have been passionate about the world of programming ever since. The story of my career in this field began in March 2021. Initially, I focused on front-end projects and became familiar with JavaScript, gaining valuable experiences.
-
-However, I always wanted to delve deeper into coding and work as a professional developer. Therefore, in April 2022, I decided to move towards back-end development and started learning PHP. Initially, I became acquainted with raw PHP, and later I migrated to Laravel, one of the popular back-end frameworks.
-
-My work experience in back-end development has greatly improved, allowing me to implement exciting and efficient projects using this powerful framework.
-
-
-During my professional journey, I have participated in several important and exciting projects. Here are some of them:
+Welcome to my GitHub profile! I am a Backend Software Engineer with experience in Php. I have over 3 years of experience building and maintaining scalable, high-performance backend systems with a strong foundation in Php and Laravel.
 
 ### By numbers...
 
