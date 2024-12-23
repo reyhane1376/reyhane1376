@@ -4,7 +4,7 @@ Hi,there :wave:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@reyhane76/1c79c02d-5496-4690-a437-346afaa04486.png" /></a>
 
-Welcome to my GitHub profile! I am a Backend Software Engineer with experience in Php. I have over 4 years of experience building and maintaining scalable, high-performance backend systems with a strong foundation in Php and Laravel.
+I am a Backend Software Engineer with over 4 years of experience in building and maintaining scalable, high-performance backend systems using PHP and Laravel. My primary focus is on exploring and mastering broader software engineering concepts to create efficient and reliable solutions. Recently, I’ve started learning Golang to expand my skill set and deepen my understanding of modern backend technologies.
 
 
 <a href="https://github.com/reyhane1376">
